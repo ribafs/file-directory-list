@@ -2,6 +2,10 @@
 
 Easily display files and folders in a mobile friendly, clean and cool way. Just drop the `index.php` in your folder and you are ready to go. Past versions of this script can be found here: https://halgatewood.com/free/file-directory-list/
 
+## In action
+
+![](img/list.png)
+
 ## Options 
 
 At the top of the `index.php` file you have a few settings you can change:
